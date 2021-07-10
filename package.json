@@ -1,0 +1,26 @@
+{
+  "name": "presearch_node_checker",
+  "version": "1.0.0",
+  "description": "Check the status of your own presearch nodes and automaticaly restart them.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/christianmaker/presearch_node_checker.git"
+  },
+  "keywords": [
+    "presearch"
+  ],
+  "author": "christianmaker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/christianmaker/presearch_node_checker/issues"
+  },
+  "homepage": "https://github.com/christianmaker/presearch_node_checker#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "simple-ssh": "^1.0.0"
+  }
+}

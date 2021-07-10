@@ -1,0 +1,15 @@
+{
+	"Server":
+	[
+		{
+			"IP": "123.123.123.123",
+			"User": "user",
+			"Password": "pass"
+		},
+		{
+			"IP": "321.321.321.311",
+			"User": "user",
+			"Password": "pass"
+		}
+	]
+}
